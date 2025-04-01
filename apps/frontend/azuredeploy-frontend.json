@@ -9,6 +9,7 @@
             "metadata": {
               "description": "Web app name."
             }
+            
         },
         "sku": {
             "type": "string",
